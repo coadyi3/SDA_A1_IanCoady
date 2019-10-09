@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SDA 2019 Ian Coady</string>
+    <string name="your_name">Name: Ian Coady</string>
+    <string name="student_id">Student ID: 18214532</string>
+    <string name="button_title">Press Me!</string>
+    <string name="mess_1">You pressed the button!</string>
+</resources>

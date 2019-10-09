@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='SDA_A1_Q1_IanCoady'
